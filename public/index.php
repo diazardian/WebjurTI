@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="M_Adnan" />
     <!-- Document Title -->
-    <title>Fugiat - Material Design HTML5 Template</title>
+    <title>w e b j u r - T I</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -57,13 +57,13 @@
             <div class="col-md-6">
                 <ul class="row">
                     <li class="margin-right-20">
-                        <p><i class="fa fa-envelope-o margin-right-10"></i>Info@Domain.com</p>
+                        <p><i class="fa fa-envelope-o margin-right-10"></i>teknikinformatika@example.com</p>
                     </li>
                     <li class="margin-right-20">
                         <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
                     </li>
                     <li>
-                        <p><i class="fa fa-user margin-right-10"></i> Account</p>
+                        <p><i class="fa fa-user margin-right-10"></i> Akun</p>
                     </li>
                 </ul>
             </div>
@@ -86,55 +86,55 @@
     <header class="header coporate-header">
         <div class="sticky">
             <div class="container">
-                <div class="logo"> <a href="index.html"><img src="images/logo.png" alt=""></a> </div>
+                <div class="logo"> <a href="index.php"><img src="images/logo.png" alt=""></a> </div>
 
                 <!-- Nav -->
                 <nav>
                     <ul id="ownmenu" class="ownmenu">
-                        <li class="active"><a href="index.html">HOME</a>
+                        <li class="active"><a href="index.html">Home</a>
                             <ul class="dropdown">
-                                <li><a href="index.html">HOME</a> </li>
-                                <li><a href="index-1.html">HOME 2</a> </li>
+                                <li><a href="index.html">home 1</a> </li>
+                                <li><a href="index-1.html">home 2</a> </li>
                             </ul>
                         </li>
-                        <li><a href="about-us.html">About</a> </li>
-                        <li><a href="services.html">services</a> </li>
-                        <li><a href="index.html">PAGES</a>
+                        <li><a href="about-us.html">Profil</a> </li>
+                        <li><a href="berita.html">Berita</a> </li>
+                        <li><a href="akademik.php">Akademik</a>
                             <ul class="dropdown">
-                                <li><a href="index.html">HOME</a> </li>
-                                <li><a href="index-1.html">HOME 2</a> </li>
-                                <li><a href="about-us.html">About</a> </li>
-                                <li><a href="about-us-2.html">About 2</a> </li>
-                                <li><a href="services.html">services</a> </li>
-                                <li><a href="services-2.html">services 2</a> </li>
-                                <li><a href="portfolio.html">portfolio</a> </li>
-                                <li><a href="portfolio-single.html">portfolio single </a> </li>
-                                <li><a href="product-1.html">Shop 1</a></li>
-                                <li><a href="product-2.html">Shop 2</a></li>
-                                <li><a href="product-single.html">Shop Detail</a></li>
-                                <li><a href="portfolio.html">portfolio</a></li>
-                                <li><a href="cart-page.html">Checkout</a></li>
-                                <li><a href="checkout.html">Your Cart</a></li>
-                                <li><a href="blog.html">blog</a></li>
-                                <li><a href="error-page.html">404</a></li>
-                                <li><a href="contact.html">contact</a></li>
+                                <li><a href=programstudi.php>Program Studi</a>
+                                    <ul class="dropdown">
+                                        <li><a href="siti.php">S1 Teknik Informatika</a> </li>
+                                        <li><a href="sisi.php">S1 Sistem Informasi</a> </li>
+                                        <li><a href="sipti.php">S1 Pendidikan Teknologi Informasi</a> </li>
+                                        <li><a href="demi.php">D3 Manajemen Informatika</a> </li>
+                                    </ul>
+                                </li>
+                                <li><a href="kalender.php">Kalender Akademik</a> </li>
                             </ul>
                         </li>
-                        <li><a href="index-1.html">Shop</a>
+                        <li><a href="sarpras.php">Sar Pras</a>
                             <ul class="dropdown">
-                                <li><a href="product-1.html">Shop Full Width</a></li>
-                                <li><a href="product-2.html">Shop Sidebar Left</a></li>
-                                <li><a href="portfolio-single.html">Shop Detail</a></li>
-                                <li><a href="cart-page.html">Checkout</a></li>
-                                <li><a href="checkout.html">Your Cart</a></li>
+                                <li><a href="product-1.html">Fasilitas</a></li>
+                                <li><a href="product-2.html">Fasilitas 2</a></li>
                             </ul>
                         </li>
-                        <li><a href="portfolio.html">PORTFOLIO</a></li>
-                        <li><a href="blog.html">Blog</a> </li>
-                        <li><a href="contact.html">CONTACT</a></li>
+                        <li><a href="portfolio.html">Dos Kar</a>
+                            <ul class="dropdown">
+                                <li><a href="product-1.html">Profil Dosen</a></li>
+                                <li><a href="product-2.html">Profil Karyawan</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="blog.html">Mahasiswa</a>
+                            <ul class="dropdown">
+                                <li><a href="product-1.html">Kemahasiswaan</a></li>
+                                <li><a href="product-2.html">Program Mahasiswa</a></li>
+                                <li><a href="product-2.html">Beasiswa</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="contact.html">Galeri</a></li>
                     </ul>
                 </nav>
-                <a href="#." class="waves-effect waves-ripple any-help z-depth-1">any help?</a> </div>
+                <a href="#." class="waves-effect waves-ripple any-help z-depth-1">Help!!</a> </div>
         </div>
     </header>
     <!-- End Header -->
@@ -162,7 +162,7 @@
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:65px; color:#fff;">Clean and Pixel Perfect Design</div>
+                             style="z-index: 5; font-size:65px; color:#fff;">text 1</div>
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption letter-space-1 sfb tp-resizeme"
@@ -176,21 +176,9 @@
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">Dolor sit amet lorem ipsum apet njejt</div>
+                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">text 2</div>
 
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption sfb tp-resizeme"
-                             data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="100"
-                             data-speed="500"
-                             data-start="1500"
-                             data-easing="Power3.easeInOut"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.1"
-                             data-endelementdelay="0.1"
-                             data-endspeed="300"
-                             style="z-index: 6; white-space: normal;"><a href="#" class="btn btn-med btn-color">PURCHASES NOW</a> </div>
+
                     </li>
 
                     <!-- SLIDE  -->
@@ -211,7 +199,7 @@
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:65px; color:#fff;">Material Design HTML Template</div>
+                             style="z-index: 5; font-size:65px; color:#fff;">text a1</div>
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption letter-space-1 sfb tp-resizeme"
@@ -225,21 +213,8 @@
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">Lorem ipsum dolor sit amet nun gravida</div>
+                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">text a2</div>
 
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption sfb tp-resizeme"
-                             data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="100"
-                             data-speed="500"
-                             data-start="1500"
-                             data-easing="Power3.easeInOut"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.1"
-                             data-endelementdelay="0.1"
-                             data-endspeed="300"
-                             style="z-index: 6; white-space: normal;"><a href="#" class="btn btn-med btn-color">PURCHASES NOW</a> </div>
                     </li>
                 </ul>
             </div>
@@ -254,7 +229,7 @@
             <div class="container">
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Welcome To Fugiat</h3>
+                    <h3>Selamat Datang Mahasiswa Teknik Informatika UNESA</h3>
                     <hr>
                     <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
 
@@ -271,8 +246,8 @@
                                         <div class="icon"> <i class="ion-ios-speedometer-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>who we are</h5>
-                                        <p>Takin' a break from all your wo ries sure would help a lot. </p>
+                                        <h5>News 1</h5>
+                                        <p>Isi news 1</p>
                                     </div>
                                 </div>
                             </li>
@@ -284,8 +259,8 @@
                                         <div class="icon"> <i class="ion-ios-color-wand-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>what we do</h5>
-                                        <p>Takin' a break from all your wo ries sure would help a lot. </p>
+                                        <h5>News 2</h5>
+                                        <p>isi news 2</p>
                                     </div>
                                 </div>
                             </li>
@@ -297,19 +272,20 @@
                                         <div class="icon"> <i class="ion-ios-infinite-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>our great team</h5>
-                                        <p>Takin' a break from all your wo ries sure would help a lot. </p>
+                                        <h5>News 3</h5>
+                                        <p>isi news 3</p>
                                     </div>
                                 </div>
                             </li>
+
                             <li class="col-md-6">
                                 <div class="media">
                                     <div class="media-left">
                                         <div class="icon"> <i class="ion-ios-monitor-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>our achievements</h5>
-                                        <p>Takin' a break from all your wo ries sure would help a lot. </p>
+                                        <h5>news 4</h5>
+                                        <p>isi news 4</p>
                                     </div>
                                 </div>
                             </li>
@@ -326,7 +302,7 @@
 
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Fugiat Core Features</h3>
+                    <h3>Visi dan Misi Jurusan</h3>
                     <hr>
                     <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
                 <div class="row">
@@ -337,8 +313,8 @@
                             <li>
                                 <div class="media">
                                     <div class="media-body">
-                                        <h4>well layered</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                                        <h4>Visi Jurusan</h4>
+                                        <p>Unggul dalam Pendidikan dan Teknologi Informasi.</p>
                                     </div>
                                     <div class="media-right">
                                         <div class="icon"> <img src="images/list-icon-1.png" alt=""></div>
@@ -348,8 +324,8 @@
                             <li>
                                 <div class="media">
                                     <div class="media-body">
-                                        <h4>user friendly</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>misi 1</p>
                                     </div>
                                     <div class="media-right">
                                         <div class="icon"> <img src="images/list-icon-2.png" alt=""></div>
@@ -359,8 +335,8 @@
                             <li>
                                 <div class="media">
                                     <div class="media-body">
-                                        <h4>24/7 support</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get.</p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>misi 2</p>
                                     </div>
                                     <div class="media-right">
                                         <div class="icon"> <img src="images/list-icon-3.png" alt=""></div>
@@ -382,8 +358,8 @@
                                         <div class="icon"> <img src="images/list-icon-4.png" alt=""> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>elegent Design</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>misi 3</p>
                                     </div>
                                 </div>
                             </li>
@@ -393,8 +369,8 @@
                                         <div class="icon"> <img src="images/list-icon-5.png" alt=""> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>different layout</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>misi 4</p>
                                     </div>
                                 </div>
                             </li>
@@ -404,8 +380,8 @@
                                         <div class="icon"> <img src="images/list-icon-6.png" alt=""> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>unique elements</h4>
-                                        <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>misi 5</p>
                                     </div>
                                 </div>
                             </li>
@@ -421,7 +397,7 @@
 
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Services What We Provide</h3>
+                    <h3>Program Studi Jurusan Teknik Informatika</h3>
                     <hr>
                     <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
 
@@ -431,8 +407,8 @@
                     <!-- Right Services -->
                     <ul class="row">
                         <li class="col-sm-6 pull-right padding-left-100 margin-bottom-30">
-                            <h4>Web design</h4>
-                            <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                            <h4>S1 Teknik Informatika</h4>
+                            <p>visi misi ti</p>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -440,8 +416,8 @@
                     <!-- Left Services -->
                     <ul class="row second">
                         <li class="col-sm-6 pull-left text-right padding-right-100">
-                            <h4>Web development</h4>
-                            <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                            <h4>S1 Sistem Informasi</h4>
+                            <p>visi misi si</p>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -449,11 +425,21 @@
                     <!-- Right Services -->
                     <ul class="row tird">
                         <li class="col-sm-6 pull-right padding-left-100 margin-bottom-30">
-                            <h4>Web analytics</h4>
-                            <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                            <h4>S1 Pendidikan Teknologi Informasi</h4>
+                            <p>visi misi pti</p>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
+
+                    <!-- Left Services -->
+                    <ul class="row second">
+                        <li class="col-sm-6 pull-left text-right padding-right-100">
+                            <h4>D3 Manajemen Informasi</h4>
+                            <p>visi misi mi</p>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+
                 </div>
             </div>
         </section>
@@ -463,7 +449,7 @@
             <div class="container">
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3 class="text-white no-margin">Featured Works</h3>
+                    <h3 class="text-white no-margin">G A L E R I</h3>
                 </div>
             </div>
 
@@ -475,8 +461,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-1.jpg"> <a href="images/portfolio/img-1.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 1</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 1</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -486,8 +472,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-2.jpg"> <a href="images/portfolio/img-2.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 2</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 2</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -497,8 +483,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-3.jpg"> <a href="images/portfolio/img-3.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 3</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 3</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -508,8 +494,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-4.jpg"> <a href="images/portfolio/img-4.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 4</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 4</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -519,8 +505,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-5.jpg"> <a href="images/portfolio/img-5.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 5</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 5</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -530,8 +516,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-6.jpg"> <a href="images/portfolio/img-6.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 6</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 6</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -541,8 +527,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-7.jpg"> <a href="images/portfolio/img-7.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 7</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 7</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -552,8 +538,8 @@
                     <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-8.jpg"> <a href="images/portfolio/img-8.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                         <div class="portfolio-overlay style-2">
                             <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
+                                <h3><a href="portfolio-single.html">folder foto 8</a></h3>
+                                <span><a href="portfolio-single.html">deskrip 8</a></span> </div>
                         </div>
                     </div>
                 </article>
@@ -565,7 +551,7 @@
             <div class="container">
                 <h6>We have used latest Technology</h6>
                 <h3>True Material Design For Your Business</h3>
-                <a href="#." class="waves-effect waves-light btn btn-white margin-right-20">purchase now</a> <a href="#." class="waves-effect waves-light btn margin-left-20">purchase now</a> </div>
+
         </section>
 
         <!-- Wgy Choose -->
@@ -573,7 +559,7 @@
             <div class="container">
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Why Choose US</h3>
+                    <h3>Sarana Dan Prasarana</h3>
                     <hr>
                     <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
 
@@ -589,8 +575,8 @@
                                         <div class="icon"> 1 </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>unique elements</h4>
-                                        <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
+                                        <h4>Ruang Kelas</h4>
+                                        <p>deskrip kelas</p>
                                     </div>
                                 </div>
                             </li>
@@ -602,8 +588,8 @@
                                         <div class="icon"> 2 </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>Experienced team</h4>
-                                        <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
+                                        <h4>Laboraturium</h4>
+                                        <p>deskrip lab</p>
                                     </div>
                                 </div>
                             </li>
@@ -615,8 +601,8 @@
                                         <div class="icon"> 3 </div>
                                     </div>
                                     <div class="media-body">
-                                        <h4>great services</h4>
-                                        <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
+                                        <h4>Parking</h4>
+                                        <p>deskrip</p>
                                     </div>
                                 </div>
                             </li>
@@ -634,9 +620,7 @@
                     <div class="col-md-7">
                         <h3 class="text-white text-uppercase no-margin">Do you want to   discuss wth us?</h3>
                     </div>
-                    <div class="col-md-5 text-center"> <a href="#." class="waves-effect waves-light btn  btn-white margin-right-20">contact us</a> <a href="#." class="waves-effect btn btn-blue margin-left-20">purchase now</a> </div>
                 </div>
-            </div>
         </section>
 
         <!-- TEAM MEMBER -->
@@ -650,9 +634,11 @@
                     <div class="item">
                         <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
                         <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
+                        <p>Jurusan Teknik INFORMATIKA adalah satu dari lima jurusan yang ada di selingkung Fakultas Teknik (FT)
+                            Universitas Negeri Surabaya (Unesa). Jurusan Teknik  Informatika cikal bakalnya berasal dari
+                            jurursan Teknik Elektro pada Prodi D3 Manajemen Informatika dan S1 Pendidikan Teknologi nformasi,
+                            setelah proses pengajuan kepada DIKTI untuk pendirian jurusan Teknik  Informatika pada tahun 2012.</p>
+                        <h6>Teknik Informatika</h6>
                     </div>
 
                     <!-- Slider item -->
@@ -753,7 +739,7 @@
 
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Latest From Our Blog</h3>
+                    <h3>K E M A H A S I S W A A N</h3>
                     <hr>
                     <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
 
@@ -762,16 +748,16 @@
 
                     <!-- Blog Post -->
                     <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-1.jpg" alt="" > <span class="tags">BUSINESS</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a> <span class="font-italic font-12px margin-bottom-15 margin-top-15 color-primary-pink">By Admin  /  Sep 15, 2015</span>
+                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-1.jpg" alt="" > <span class="tags">Kemahasiswaan</span> <a href="#." class="post-tittle">There's nothing can hold when
+                                We hold you</a>
                             <p>That this group would somehow form family that's the way we all became the Bunch.
                                 Here he comes Here comes Speed.</p>
                             <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
                     </div>
                     <!-- Blog Post -->
                     <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-2.jpg" alt="" > <span class="tags">BUSINESS</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a> <span class="font-italic font-12px margin-bottom-15 margin-top-15 color-primary-pink">By Admin  /  Sep 15, 2015</span>
+                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-2.jpg" alt="" > <span class="tags">Program Mahasiswa</span> <a href="#." class="post-tittle">There's nothing can hold when
+                                We hold you</a>
                             <p>That this group would somehow form family that's the way we all became the Bunch.
                                 Here he comes Here comes Speed.</p>
                             <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
@@ -779,8 +765,8 @@
 
                     <!-- Blog Post -->
                     <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-3.jpg" alt="" > <span class="tags">BUSINESS</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a> <span class="font-italic font-12px margin-bottom-15 margin-top-15 color-primary-pink">By Admin  /  Sep 15, 2015</span>
+                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-3.jpg" alt="" > <span class="tags">Beasiswa</span> <a href="#." class="post-tittle">There's nothing can hold when
+                                We hold you</a>
                             <p>That this group would somehow form family that's the way we all became the Bunch.
                                 Here he comes Here comes Speed.</p>
                             <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
@@ -789,120 +775,102 @@
             </div>
         </section>
 
-        <!-- News Letter -->
-        <div class="container">
-            <section class="news-letter">
+
+        <!-- Footer -->
+
+        <footer>
+            <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
-                        <h5>Subscribe to our newsletter</h5>
-                        <p>You can unsubscribe anytime you want</p>
+
+                    <!-- About -->
+                    <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="" >
+                        <p>Segelintir mahasiswa dari jurusan teknik informatika fakultas teknik Universitas Negeri Surabaya.</p>
+
+                        <!-- Social Icon -->
+                        <ul class="social-icons">
+                            <li><a href="#."><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#."><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#."><i class="fa fa-google"></i></a></li>
+                            <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
+                        </ul>
                     </div>
-                    <div class="col-md-6">
-                        <form>
-                            <input type="email" class="z-depth-1" placeholder="Email address" required>
-                            <button type="submit" class="btn waves-effect waves-light">subscribe</button>
-                        </form>
+
+                    <!-- Our Services -->
+                    <div class="col-md-3">
+                        <h5>Kontak</h5>
+                        <ul class="links">
+                            <li><a href="#.">Wed Design</a></li>
+                            <li><a href="#."> Wed Development</a></li>
+                            <li><a href="#."> SEO Optimization</a></li>
+                            <li><a href="#."> Web Analytics</a></li>
+                            <li><a href="#."> Digital Marketing</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- useful links -->
+                    <div class="col-md-3">
+                        <h5>pages</h5>
+                        <ul class="links">
+                            <li><a href="#."> Profil Jurusan</a></li>
+                            <li><a href="#."> Prtal Berita</a></li>
+                            <li><a href="#."> Akademik</a></li>
+                            <li><a href="#."> Sarana & Prasarana</a></li>
+                            <li><a href="#."> Dosen & Karyawan</a></li>
+                            <li><a href="#."> Kemahasiswaan</a></li>
+                            <li><a href="#."> Galeri</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- flickr -->
+                    <div class="col-md-3">
+                        <h5>flickr</h5>
+                        <ul class="flicker">
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-1.jpg" alt="" ></a></li>
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-2.jpg" alt="" ></a></li>
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-3.jpg" alt="" ></a></li>
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-4.jpg" alt="" ></a></li>
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-5.jpg" alt="" ></a></li>
+                            <li><a href="#."><img class="img-responsive" src="images/flicker-6.jpg" alt="" ></a></li>
+                        </ul>
                     </div>
                 </div>
-            </section>
-        </div>
+
+                <!-- Links -->
+                <ul class="bottom-links">
+                    <li><a href="#."> Profil Jurusan</a></li>
+                    <li><a href="#."> Prtal Berita</a></li>
+                    <li><a href="#."> Akademik</a></li>
+                    <li><a href="#."> Sarana & Prasarana</a></li>
+                    <li><a href="#."> Dosen & Karyawan</a></li>
+                    <li><a href="#."> Kemahasiswaan</a></li>
+                    <li><a href="#."> Galeri</a></li>
+                </ul>
+
+                <!-- Rights -->
+                <div class="rights">
+                    <p>© 2017 All Rights Reserved</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
     </div>
-    <!-- End Content -->
+    <!-- End Page Wrapper -->
 
-    <!-- Footer -->
+    <!-- JavaScripts -->
+    <script src="js/vendors/jquery/jquery.min.js"></script>
+    <script src="js/vendors/wow.min.js"></script>
+    <script src="js/vendors/bootstrap.min.js"></script>
+    <script src="js/vendors/materialize.min.js"></script>
+    <script src="js/vendors/own-menu.js"></script>
+    <script src="js/vendors/jquery.prettyPhoto.js"></script>
+    <script src="js/vendors/flexslider/jquery.flexslider-min.js"></script>
+    <script src="js/vendors/jquery.isotope.min.js"></script>
+    <script src="js/vendors/owl.carousel.min.js"></script>
 
-    <footer>
-        <div class="container">
-            <div class="row">
-
-                <!-- About -->
-                <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="" >
-                    <p>Said Californ'y is the place you ought to be So they loaded up the truck and moved to Beverly. Hills that is.</p>
-
-                    <!-- Social Icon -->
-                    <ul class="social-icons">
-                        <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#."><i class="fa fa-google"></i></a></li>
-                        <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-                    </ul>
-                </div>
-
-                <!-- Our Services -->
-                <div class="col-md-3">
-                    <h5>Our Services</h5>
-                    <ul class="links">
-                        <li><a href="#.">Wed Design</a></li>
-                        <li><a href="#."> Wed Development</a></li>
-                        <li><a href="#."> SEO Optimization</a></li>
-                        <li><a href="#."> Web Analytics</a></li>
-                        <li><a href="#."> Digital Marketing</a></li>
-                    </ul>
-                </div>
-
-                <!-- useful links -->
-                <div class="col-md-3">
-                    <h5>useful links</h5>
-                    <ul class="links">
-                        <li><a href="#.">About us</a></li>
-                        <li><a href="#."> Why Choose Us</a></li>
-                        <li><a href="#."> Our Services</a></li>
-                        <li><a href="#."> Contact Us</a></li>
-                        <li><a href="#."> Site Map</a></li>
-                        <li><a href="#."> Partners</a></li>
-                        <li><a href="#."> Help Topics</a></li>
-                    </ul>
-                </div>
-
-                <!-- flickr -->
-                <div class="col-md-3">
-                    <h5>flickr</h5>
-                    <ul class="flicker">
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-1.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-2.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-3.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-4.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-5.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-6.jpg" alt="" ></a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Links -->
-            <ul class="bottom-links">
-                <li><a href="#.">Home </a></li>
-                <li><a href="#."> about us </a></li>
-                <li><a href="#."> services </a></li>
-                <li><a href="#."> Portfolio</a></li>
-                <li><a href="#."> blog </a></li>
-                <li><a href="#."> contact us</a></li>
-            </ul>
-
-            <!-- Rights -->
-            <div class="rights">
-                <p>© 2015 All Rights Reserved</p>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer -->
-</div>
-<!-- End Page Wrapper -->
-
-<!-- JavaScripts -->
-<script src="js/vendors/jquery/jquery.min.js"></script>
-<script src="js/vendors/wow.min.js"></script>
-<script src="js/vendors/bootstrap.min.js"></script>
-<script src="js/vendors/materialize.min.js"></script>
-<script src="js/vendors/own-menu.js"></script>
-<script src="js/vendors/jquery.prettyPhoto.js"></script>
-<script src="js/vendors/flexslider/jquery.flexslider-min.js"></script>
-<script src="js/vendors/jquery.isotope.min.js"></script>
-<script src="js/vendors/owl.carousel.min.js"></script>
-
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/main.js"></script>
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
