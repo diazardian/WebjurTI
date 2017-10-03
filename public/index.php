@@ -36,7 +36,9 @@
     <![endif]-->
 </head>
 <body>
-
+<?php
+include "header.php";
+?>
 <!-- LOADER -->
 <div id="loader">
     <div class="loader">
@@ -47,97 +49,6 @@
         </div>
     </div>
 </div>
-
-<!-- Page Wrapper -->
-<div id="wrap">
-
-    <!-- Top bar -->
-    <div class="top-bar">
-        <div class="container">
-            <div class="col-md-6">
-                <ul class="row">
-                    <li class="margin-right-20">
-                        <p><i class="fa fa-envelope-o margin-right-10"></i>teknikinformatika@example.com</p>
-                    </li>
-                    <li class="margin-right-20">
-                        <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
-                    </li>
-                    <li>
-                        <p><i class="fa fa-user margin-right-10"></i> Akun</p>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Social Icon -->
-            <div class="col-md-6 text-right social-top">
-                <!-- Social Icon -->
-                <ul class="social-icons">
-                    <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#."><i class="fa fa-google"></i></a></li>
-                    <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <!-- Header -->
-    <header class="header coporate-header">
-        <div class="sticky">
-            <div class="container">
-                <div class="logo"> <a href="index.php"><img src="images/logo.png" alt=""></a> </div>
-
-                <!-- Nav -->
-                <nav>
-                    <ul id="ownmenu" class="ownmenu">
-                        <li class="active"><a href="index.html">Home</a>
-                            <ul class="dropdown">
-                                <li><a href="index.html">home 1</a> </li>
-                                <li><a href="index-1.html">home 2</a> </li>
-                            </ul>
-                        </li>
-                        <li><a href="about-us.html">Profil</a> </li>
-                        <li><a href="berita.html">Berita</a> </li>
-                        <li><a href="akademik.php">Akademik</a>
-                            <ul class="dropdown">
-                                <li><a href=programstudi.php>Program Studi</a>
-                                    <ul class="dropdown">
-                                        <li><a href="siti.php">S1 Teknik Informatika</a> </li>
-                                        <li><a href="sisi.php">S1 Sistem Informasi</a> </li>
-                                        <li><a href="sipti.php">S1 Pendidikan Teknologi Informasi</a> </li>
-                                        <li><a href="demi.php">D3 Manajemen Informatika</a> </li>
-                                    </ul>
-                                </li>
-                                <li><a href="kalender.php">Kalender Akademik</a> </li>
-                            </ul>
-                        </li>
-                        <li><a href="sarpras.php">Sar Pras</a>
-                            <ul class="dropdown">
-                                <li><a href="product-1.html">Fasilitas</a></li>
-                                <li><a href="product-2.html">Fasilitas 2</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="portfolio.html">Dos Kar</a>
-                            <ul class="dropdown">
-                                <li><a href="product-1.html">Profil Dosen</a></li>
-                                <li><a href="product-2.html">Profil Karyawan</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="blog.html">Mahasiswa</a>
-                            <ul class="dropdown">
-                                <li><a href="product-1.html">Kemahasiswaan</a></li>
-                                <li><a href="product-2.html">Program Mahasiswa</a></li>
-                                <li><a href="product-2.html">Beasiswa</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="contact.html">Galeri</a></li>
-                    </ul>
-                </nav>
-                <a href="#." class="waves-effect waves-ripple any-help z-depth-1">Help!!</a> </div>
-        </div>
-    </header>
-    <!-- End Header -->
 
     <!--======= HOME MAIN SLIDER =========-->
     <section class="home-slider">
