@@ -35,6 +35,8 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
+
 <body>
 
 <!-- LOADER -->f
@@ -101,7 +103,7 @@
                             <ul class="dropdown">
                                 <li><a href="index.html">BERANDA</a> </li>
                                 <li><a href="about-us.html">AKADEMIK</a> </li>
-                                <li><a href="Dosen.html">Dosen & Karyawan</a> </li>
+                                <li><a href="Dosen.php">Dosen & Karyawan</a> </li>
                                 <li><a href="GALERI.html">Galeri</a> </li>
                                 <li><a href="contact.html">contact</a></li>
                             </ul>
@@ -211,10 +213,6 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
 
     <!-- End Content -->
-
-        <?php
-include "header.php";
-?>
 
 </div>
 <!-- End Page Wrapper -->
