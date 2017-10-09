@@ -16,7 +16,7 @@
                                 <li><a href="index-1.html">home 2</a> </li>
                             </ul>
                         </li>
-                        <li><a href="about-us.html">Profil</a> </li>
+                        <li><a href="about_us.php">Profil</a> </li>
                         <li><a href="berita.html">Berita</a> </li>
                         <li><a href="akademik.php">Akademik</a>
                             <ul class="dropdown">
