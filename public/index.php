@@ -35,10 +35,6 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body>
-<?php
-include "header.php";
-?>
 <!-- LOADER -->
 <div id="loader">
     <div class="loader">
@@ -50,6 +46,10 @@ include "header.php";
     </div>
 </div>
 
+<body>
+<?php
+include "header.php";
+?>
     <!--======= HOME MAIN SLIDER =========-->
     <section class="home-slider">
         <div class="tp-banner-container">

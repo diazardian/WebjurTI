@@ -1,7 +1,4 @@
-<!-- Page Wrapper -->
-<div id="wrap">
-
-    <!-- Header -->
+<!-- Header -->
     <header class="header coporate-header">
         <div class="sticky">
             <div class="container">
@@ -10,14 +7,9 @@
                 <!-- Nav -->
                 <nav>
                     <ul id="ownmenu" class="ownmenu">
-                        <li class="active"><a href="index.html">Home</a>
-                            <ul class="dropdown">
-                                <li><a href="index.html">home 1</a> </li>
-                                <li><a href="index-1.html">home 2</a> </li>
-                            </ul>
-                        </li>
-                        <li><a href="about_us.php">Profil</a> </li>
-                        <li><a href="berita.html">Berita</a> </li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about_us_dian.php">Profil</a> </li>
+                        <li><a href="berita.php">Berita</a> </li>
                         <li><a href="akademik.php">Akademik</a>
                             <ul class="dropdown">
                                 <li><a href=programstudi.php>Program Studi</a>

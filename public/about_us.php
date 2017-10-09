@@ -5,7 +5,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="M_Adnan" />
 <!-- Document Title -->
-<title>Fugiat - Material Design HTML5 Template</title>
+<title>w e b j u r - T I</title>
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -36,11 +36,13 @@
     <![endif]-->
 </head>
 <body>
-
+<?php
+include "header.php";
+?>
 <!-- LOADER -->
 <div id="loader">
   <div class="loader">
-    <div class="position-center-center"> <img src="images/logo.png" alt="" >
+    <div class="position-center-center"> <img src="" alt="" >
       <div class="progress">
         <div class="indeterminate"></div>
       </div>
@@ -48,98 +50,6 @@
   </div>
 </div>
 
-<!-- Page Wrapper -->
-<div id="wrap"> 
-  
-  <!-- Top bar -->
-  <div class="top-bar">
-    <div class="container">
-      <div class="col-md-6">
-        <ul class="row">
-          <li class="margin-right-20">
-            <p><i class="fa fa-envelope-o margin-right-10"></i>Info@Domain.com</p>
-          </li>
-          <li class="margin-right-20">
-            <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
-          </li>
-          <li>
-            <p><i class="fa fa-user margin-right-10"></i> Account</p>
-          </li>
-        </ul>
-      </div>
-      
-      <!-- Social Icon -->
-      <div class="col-md-6 text-right social-top"> 
-        <!-- Social Icon -->
-        <ul class="social-icons">
-          <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#."><i class="fa fa-google"></i></a></li>
-          <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Header -->
-  <header class="header coporate-header">
-    <div class="sticky">
-      <div class="container">
-        <div class="logo"> <a href="index.html"><img src="images/logo.png" alt=""></a> </div>
-        
-        <!-- Nav -->
-        <nav>
-          <ul id="ownmenu" class="ownmenu">
-            <li><a href="index.html">HOME</a>
-              <ul class="dropdown">
-                <li><a href="index.html">HOME</a> </li>
-                <li><a href="index-1.html">HOME 2</a> </li>
-              </ul>
-            </li>
-            <li class="active"><a href="about-us.html">About</a> </li>
-            <li><a href="services.html">Berita</a> </li>
-            <li><a href="index.html">PAGES</a>
-              <ul class="dropdown">
-                <li><a href="index.html">HOME</a> </li>
-                <li><a href="index-1.html">HOME 2</a> </li>
-                <li><a href="about-us.html">About</a> </li>
-                <li><a href="about-us-2.html">About 2</a> </li>
-                <li><a href="services.html">Berita</a> </li>
-                <li><a href="services-2.html">Berita</a> </li>
-                <li><a href="portfolio.html">portfolio</a> </li>
-                <li><a href="portfolio-single.html">portfolio single </a> </li>
-                <li><a href="product-1.html">Shop 1</a></li>
-                <li><a href="product-2.html">Shop 2</a></li>
-                <li><a href="product-single.html">Shop Detail</a></li>
-                <li><a href="portfolio.html">portfolio</a></li>
-                <li><a href="cart-page.html">Checkout</a></li>
-                <li><a href="checkout.html">Your Cart</a></li>
-                <li><a href="about_us.php">blog</a></li>
-                <li><a href="error-page.html">404</a></li>
-                <li><a href="contact.html">contact</a></li>
-              </ul>
-            </li>
-            <li><a href="index-1.html">Shop</a>
-              <ul class="dropdown">
-                <li><a href="product-1.html">Shop Full Width</a></li>
-                <li><a href="product-2.html">Shop Sidebar Left</a></li>
-                <li><a href="portfolio-single.html">Shop Detail</a></li>
-                <li><a href="cart-page.html">Checkout</a></li>
-                <li><a href="checkout.html">Your Cart</a></li>
-              </ul>
-            </li>
-            <li><a href="portfolio.html">PORTFOLIO</a></li>
-            <li><a href="about_us.php">Blog</a> </li>
-            <li><a href="contact.html">CONTACT</a></li>
-          </ul>
-        </nav>
-        <a href="#." class="waves-effect waves-ripple any-help z-depth-1">any help?</a>
-      </div>
-    </div>
-  </header>
-  <!-- End Header --> 
-  
   <!--======= SUB BANNER =========-->
   <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
     <div class="container">
