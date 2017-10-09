@@ -5,11 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="M_Adnan" />
     <!-- Document Title -->
-    <title>Fugiat - Material Design HTML5 Template</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <title>w e b j u r - T I</title>
 
     <!-- FontsOnline -->
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,900,300,100' rel='stylesheet' type='text/css'>
@@ -107,9 +103,7 @@ include "header.php";
 
         <!-- HEADING BLOCK -->
         <div class="heading-block text-center margin-bottom-80">
-          <h3>Fugiat Core Features</h3>
-          <hr>
-          <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+          <h3>Prodi - Prodi Teknik Informatika</h3>
         <div class="row">
 
           <!-- LIST LEFT -->
