@@ -50,6 +50,47 @@ include "header.php";
   </div>
 </div>
 
+<<<<<<< Updated upstream
+=======
+<!-- Page Wrapper -->
+<div id="wrap"> 
+  
+  <!-- Top bar -->
+  <div class="top-bar">
+    <div class="container">
+      <div class="col-md-6">
+        <ul class="row">
+          <li class="margin-right-20">
+            <p><i class="fa fa-envelope-o margin-right-10"></i>Info@Domain.com</p>
+          </li>
+          <li class="margin-right-20">
+            <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
+          </li>
+          <li>
+            <p><i class="fa fa-user margin-right-10"></i> Account</p>
+          </li>
+        </ul>
+      </div>
+      
+      <!-- Social Icon -->
+      <div class="col-md-6 text-right social-top"> 
+        <!-- Social Icon -->
+        <ul class="social-icons">
+          <li><a href="#."><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#."><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#."><i class="fa fa-google"></i></a></li>
+          <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <?php
+  include "header.php";
+  ?>
+  
+>>>>>>> Stashed changes
   <!--======= SUB BANNER =========-->
   <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
     <div class="container">

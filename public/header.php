@@ -35,7 +35,7 @@
                                 <li><a href="product-2.html">Profil Karyawan</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog.html">Mahasiswa</a>
+                        <li><a href="about_us.php">Mahasiswa</a>
                             <ul class="dropdown">
                                 <li><a href="product-1.html">Kemahasiswaan</a></li>
                                 <li><a href="product-2.html">Program Mahasiswa</a></li>
