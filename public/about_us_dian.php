@@ -175,27 +175,26 @@ include "header.php";
           <h3>Struktur Organisasi</h3>
           <hr>
             <img class="img-responsive" src="images/fix-banner123-copy11.jpg" alt=""> </div>
+    </section>
 
-                <!-- Wgy Choose -->
+                <!-- Peta lokasi -->
     <section class="why-choose padding-top-100 padding-bottom-100">
       <div class="container">
         <!-- HEADING BLOCK -->
         <div class="heading-block text-center margin-bottom-80">
-          <h3>Why Choose US</h3>
-          <hr>
-          <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
-      </div>
-    </section>
-          <section class="why-choose padding-top-100 padding-bottom-100">
+          <h3>Peta Lokasi</h3>
               <div class="container">
                   <?php
                   include "maps.php";
                   ?>
               </div>
-          </section>
+      </div>
       </div>
     </div>
+    </div>
 </div>
+</div>
+    </section>
 </div>
         <?php
         include "footer.php";

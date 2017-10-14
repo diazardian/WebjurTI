@@ -5,7 +5,7 @@
         <div class="row">
 
             <!-- About -->
-            <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="" >
+            <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo%20kaki.png" alt="" >
                 <p>Segelintir mahasiswa dari jurusan teknik informatika fakultas teknik Universitas Negeri Surabaya.</p>
 
                 <!-- Social Icon -->

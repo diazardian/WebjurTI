@@ -17,7 +17,7 @@
         var marker = new google.maps.Marker({
             position: myLatLng,
             map: map,
-            title: 'Jancuk'
+            title: 'Jurusan Teknik Informatika'
         });
     }
 </script>
