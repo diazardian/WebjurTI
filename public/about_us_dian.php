@@ -112,33 +112,22 @@ include "header.php";
               <li>
                 <div class="media">
                   <div class="media-body">
-                    <h4>well layered</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                      <br>
+                    <h4>S1 Teknik Informatika</h4>
                   </div>
                   <div class="media-right">
-                    <div class="icon"> <img src="images/list-icon-1.png" alt="" ></div>
+                    <div class="icon"> <img src="images/" alt="" ></div>
                   </div>
                 </div>
               </li>
               <li>
                 <div class="media">
                   <div class="media-body">
-                    <h4>user friendly</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                      <br>
+                    <h4>S1 Sistem Informasi</h4>
                   </div>
                   <div class="media-right">
-                    <div class="icon"> <img src="images/list-icon-2.png" alt=""></div>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="media">
-                  <div class="media-body">
-                    <h4>24/7 support</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get.</p>
-                  </div>
-                  <div class="media-right">
-                    <div class="icon"> <img src="images/list-icon-3.png" alt=""></div>
+                    <div class="icon"> <img src="images/" alt=""></div>
                   </div>
                 </div>
               </li>
@@ -146,7 +135,7 @@ include "header.php";
           </div>
 
             <!-- LIST IMAGE -->
-          <div class="col-md-4 text-center no-padding"> <img class="img-responsive" src="images/iphone-2.png" alt=""> </div>
+          <div class="col-md-4 text-center no-padding"> <img class="img-responsive" src="images/logo-ti.png" alt=""> </div>
 
             <!-- LIST ICON RIGHT -->
           <div class="col-md-4">
@@ -154,33 +143,22 @@ include "header.php";
               <li>
                 <div class="media">
                   <div class="media-left">
-                    <div class="icon"> <img src="images/list-icon-4.png" alt=""> </div>
+                    <div class="icon"> <img src="images/" alt=""> </div>
                   </div>
                   <div class="media-body">
-                    <h4>elegent Design</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                      <br>
+                    <h4>S1 Pendidikan Teknologi Informasi</h4>
                   </div>
                 </div>
               </li>
               <li>
                 <div class="media">
                   <div class="media-left">
-                    <div class="icon"> <img src="images/list-icon-5.png" alt="" > </div>
+                    <div class="icon"> <img src="images/" alt="" > </div>
                   </div>
                   <div class="media-body">
-                    <h4>different layout</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="media">
-                  <div class="media-left">
-                    <div class="icon"> <img src="images/list-icon-6.png" alt="" > </div>
-                  </div>
-                  <div class="media-body">
-                    <h4>unique elements</h4>
-                    <p>Friendly neighbors there that's where we meet can you tell me how to get. </p>
+                      <br>
+                    <h4>D3 Manajemen Informatika</h4>
                   </div>
                 </div>
               </li>
