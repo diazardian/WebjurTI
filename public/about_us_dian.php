@@ -167,6 +167,14 @@ include "header.php";
         </div>
       </div>
     </section>
+                <!-- Organisasi -->
+    <section class="why-choose padding-top-100 padding-bottom-100">
+      <div class="container">
+        <!-- HEADING BLOCK -->
+        <div class="heading-block text-center margin-bottom-80">
+          <h3>Struktur Organisasi</h3>
+          <hr>
+            <img class="img-responsive" src="images/fix-banner123-copy11.jpg" alt=""> </div>
 
                 <!-- Wgy Choose -->
     <section class="why-choose padding-top-100 padding-bottom-100">
@@ -176,68 +184,6 @@ include "header.php";
           <h3>Why Choose US</h3>
           <hr>
           <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
-
-          <!-- List  -->
-        <div class="row">
-          <div class="col-md-7">
-            <ul>
-
-              <!-- HEADING -->
-              <li>
-                <div class="media">
-                  <div class="media-left">
-                    <div class="icon"> 1 </div>
-                  </div>
-                  <div class="media-body">
-                    <h4>unique elements</h4>
-                    <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
-                  </div>
-                </div>
-              </li>
-
-                <!-- Experienced team -->
-              <li>
-                <div class="media">
-                  <div class="media-left">
-                    <div class="icon"> 2 </div>
-                  </div>
-                  <div class="media-body">
-                    <h4>Experienced team</h4>
-                    <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
-                  </div>
-                </div>
-              </li>
-
-                <!-- HEADING -->
-              <li>
-                <div class="media">
-                  <div class="media-left">
-                    <div class="icon"> 3 </div>
-                  </div>
-                  <div class="media-body">
-                    <h4>great services</h4>
-                    <p>The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. So get a witch's shawl on a broomstick you can crawl on. </p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-5 text-bold"> <img class="img-responsive" src="images/why-choose-img.png" alt="" > </div>
-        </div>
-      </div>
-    </section>
-
-                <!-- Clients -->
-    <section class="clients purple-bg text-center padding-top-50 padding-bottom-50">
-      <div class="container">
-        <ul class="row">
-          <li class="col-sm-2"><img src="images/client-1.png" alt=""></li>
-          <li class="col-sm-2"><img src="images/client-2.png" alt=""></li>
-          <li class="col-sm-2"><img src="images/client-3.png" alt=""></li>
-          <li class="col-sm-2"><img src="images/client-4.png" alt=""></li>
-          <li class="col-sm-2"><img src="images/client-5.png" alt=""></li>
-          <li class="col-sm-2"><img src="images/client-6.png" alt=""></li>
-        </ul>
       </div>
     </section>
 
