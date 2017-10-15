@@ -50,6 +50,38 @@
 
 <!-- Page Wrapper -->
 <div id="wrap">
+
+    <!-- Top bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="col-md-6">
+                <ul class="row">
+                    <li class="margin-right-20">
+                        <p><i class="fa fa-envelope-o margin-right-10"></i>Info@Domain.com</p>
+                    </li>
+                    <li class="margin-right-20">
+                        <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
+                    </li>
+                    <li>
+                        <p><i class="fa fa-user margin-right-10"></i> Account</p>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Social Icon -->
+            <div class="col-md-6 text-right social-top">
+                <!-- Social Icon -->
+                <ul class="social-icons">
+                    <li><a href="#."><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#."><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#."><i class="fa fa-google"></i></a></li>
+                    <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
     <?php
     include "header.php";
     ?>
@@ -58,61 +90,85 @@
     <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
         <div class="container">
             <div class="position-center-center">
-                <h1>Sarana Prasarana</h1>
+                <h1>sarana prasarana</h1>
             </div>
         </div>
     </section>
 
     <!-- Content -->
     <div id="content">
-        <!-- sarpras-->
+
+        <!-- PORTFOLIO -->
         <section class="portfolio port-wrap light-gray-bg padding-bottom-100 padding-top-100">
             <div class="container">
 
-            <!-- Work Filter -->
-        <ul class="portfolio-filter text-center margin-bottom-80">
-            <li><a class="active waves-effect waves-light" href="#." data-filter="*">all categories</a></li>
-            <li><a class="waves-effect waves-light" href="#." data-filter=".pf-branding-design">graphic design</a></li>
-            <li><a class="waves-effect waves-light" href="#." data-filter=".pf-photography">web design</a></li>
-            <li><a class="waves-effect waves-light" href="#." data-filter=".pf-web-design">development</a></li>
-        </ul>
+                <!-- Work Filter -->
+                <ul class="portfolio-filter text-center margin-bottom-80">
+                    <li><a class="active waves-effect waves-light" href="#." data-filter="*">all categories</a></li>
+                    <li><a class="waves-effect waves-light" href="#." data-filter=".pf-branding-design">ruang kelas</a></li>
+                    <li><a class="waves-effect waves-light" href="#." data-filter=".pf-photography">laboratorium</a></li>
+                </ul>
 
-        <!-- Sarpras-->
-        <section class="portfolio-single light-gray-bg padding-bottom-100 padding-top-100">
-            <div class="container">
-                <div class="single-slides">
-                    <div class="item"> <img src="images/sarpras/ruang%20kelas%201.jpg" alt="" > </div>
-                    <div class="item"> <img src="images/sarpras/ruang%20kelas%202.jpg" alt="" > </div>
-                    <div class="item"> <img src="images/sarpras/ruangkelas3.jpg" alt="" > </div>
-                    <div class="item"> <img src="images/sarpras/ruangkelas4.jpg" alt="" > </div>
-                </div>
+                <!-- PORTFOLIO ITEMS -->
+                <div class="items row col-3 with-space">
 
-                <div class="row client-info margin-top-50">
-                    <div class="col-md-9">
-                        <h4>Ruang Perkuliahan</h4>
-                        <p> Suasana dan Ruang Perkuliahan </p>
-                    </div>
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-branding-design">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/ruang%20kelas%202.jpg"> <a href="images/sarpras/ruang%20kelas%202.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Ruang Perkuliahan</a></h3>
+                                    <span><a href="portfolio-single.html">Suasana dan Ruang Perkuliahan</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-photography pf-photography">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/lab_rpl.jpg"> <a href="images/sarpras/lab_rpl.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Lab RPL</a></h3>
+                                    <span><a href="portfolio-single.html">Laboratorium Rekayasa Perangkat Lunak</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-web-design pf-photography">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/lab_jarkom.jpg"> <a href="images/sarpras/lab_jarkom.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Lab Jarkom</a></h3>
+                                    <span><a href="portfolio-single.html">Laboratorium jaringan Komputer</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-web-design pf-photography">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/lab_si.jpg"> <a href="images/sarpras/lab_si.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Lab SI</a></h3>
+                                    <span><a href="portfolio-single.html">Laboratorium Sistem Informasi</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-web-design pf-photography">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/lab-mmk.jpg"> <a href="images/sarpras/lab-mmk.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Lab MMK</a></h3>
+                                    <span><a href="portfolio-single.html">Laboratorium Multimedia Kreatif</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
                 </div>
             </div>
         </section>
-
-        <!-- News Letter -->
-        <div class="container">
-            <section class="news-letter">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h5>Subscribe to our newsletter</h5>
-                        <p>You can unsubscribe anytime you want</p>
-                    </div>
-                    <div class="col-md-6">
-                        <form>
-                            <input type="email" class="z-depth-1" placeholder="Email address" required>
-                            <button type="submit" class="btn waves-effect waves-light">subscribe</button>
-                        </form>
-                    </div>
-                </div>
-            </section>
-        </div>
     </div>
     <!-- End Content -->
     <?php
