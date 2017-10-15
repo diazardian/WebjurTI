@@ -50,47 +50,15 @@
 
 <!-- Page Wrapper -->
 <div id="wrap">
-
-    <!-- Top bar -->
-    <div class="top-bar">
-        <div class="container">
-            <div class="col-md-6">
-                <ul class="row">
-                    <li class="margin-right-20">
-                        <p><i class="fa fa-envelope-o margin-right-10"></i>Info@Domain.com</p>
-                    </li>
-                    <li class="margin-right-20">
-                        <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
-                    </li>
-                    <li>
-                        <p><i class="fa fa-user margin-right-10"></i> Account</p>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Social Icon -->
-            <div class="col-md-6 text-right social-top">
-                <!-- Social Icon -->
-                <ul class="social-icons">
-                    <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#."><i class="fa fa-google"></i></a></li>
-                    <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
     <?php
     include "header.php";
     ?>
 
     <!--======= SUB BANNER =========-->
-    <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
+    <section class="sub-banner bg-parallax" style="background:url(images/sarpras/lab-mmk.jpg) no-repeat">
         <div class="container">
             <div class="position-center-center">
-                <h1>sarana prasarana</h1>
+                <h1 style="color: black">sarana prasarana</h1>
             </div>
         </div>
     </section>
@@ -107,6 +75,7 @@
                     <li><a class="active waves-effect waves-light" href="#." data-filter="*">all categories</a></li>
                     <li><a class="waves-effect waves-light" href="#." data-filter=".pf-branding-design">ruang kelas</a></li>
                     <li><a class="waves-effect waves-light" href="#." data-filter=".pf-photography">laboratorium</a></li>
+                    <li><a class="waves-effect waves-light" href="#." data-filter=".pf-baca">Ruang Baca</a></li>
                 </ul>
 
                 <!-- PORTFOLIO ITEMS -->
@@ -117,8 +86,8 @@
                         <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/ruang%20kelas%202.jpg"> <a href="images/sarpras/ruang%20kelas%202.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
-                                    <h3><a href="portfolio-single.html">Ruang Perkuliahan</a></h3>
-                                    <span><a href="portfolio-single.html">Suasana dan Ruang Perkuliahan</a></span> </div>
+                                    <h3><a href="sarpras-sub-1.php">Ruang Perkuliahan</a></h3>
+                                    <span><a href="sarpras-sub-1.php">Suasana dan Ruang Perkuliahan</a></span> </div>
                             </div>
                         </div>
                     </article>
@@ -128,8 +97,8 @@
                         <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/lab_rpl.jpg"> <a href="images/sarpras/lab_rpl.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
-                                    <h3><a href="portfolio-single.html">Lab RPL</a></h3>
-                                    <span><a href="portfolio-single.html">Laboratorium Rekayasa Perangkat Lunak</a></span> </div>
+                                    <h3><a href="sarpras-sub-2.php">Lab RPL</a></h3>
+                                    <span><a href="sarpras-sub-2.php">Laboratorium Rekayasa Perangkat Lunak</a></span> </div>
                             </div>
                         </div>
                     </article>
@@ -163,6 +132,17 @@
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Lab MMK</a></h3>
                                     <span><a href="portfolio-single.html">Laboratorium Multimedia Kreatif</a></span> </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- ITEM -->
+                    <article class="portfolio-item pf-web-design pf-baca">
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/sarpras/r_baca1.jpg"> <a href="images/sarpras/r_baca2.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                            <div class="portfolio-overlay style-2">
+                                <div class="detail-info">
+                                    <h3><a href="portfolio-single.html">Ruang Baca</a></h3>
+                                    <span><a href="portfolio-single.html">Ruang Baca Jurusan Teknik Informatika</a></span> </div>
                             </div>
                         </div>
                     </article>
