@@ -6,7 +6,11 @@
 
             <!-- About -->
             <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo%20kaki.png" alt="" >
-                <p>Segelintir mahasiswa dari jurusan teknik informatika fakultas teknik Universitas Negeri Surabaya.</p>
+                <h4 style="color: white">UNESA Kampus Ketintang</h4>
+                <h5 style="color: white">Gedung B1-B2</h5>
+                <h6 style="color: white">Telp : +62 31  8299563
+                    <br>Fax : +62 31 8299553
+                    <br>E-Mail : info@if.unesa.ac.id</h6>
 
                 <!-- Social Icon -->
                 <ul class="social-icons">
