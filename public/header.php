@@ -24,10 +24,6 @@
                             </ul>
                         </li>
                         <li><a href="sarpras.php">Sar Pras</a>
-                            <ul class="dropdown">
-                                <li><a href="product-1.html">Fasilitas</a></li>
-                                <li><a href="product-2.html">Fasilitas 2</a></li>
-                            </ul>
                         </li>
                         <li><a href="portfolio.html">Dos Kar</a>
                             <ul class="dropdown">
