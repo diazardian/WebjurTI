@@ -58,7 +58,7 @@ include "header.php";
                     <!-- SLIDE  -->
                     <li data-transition="random" data-slotamount="7">
                         <!-- MAIN IMAGE -->
-                        <img src="images/slides/slides-1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <img src="images/bg/1480345456851-1024x683.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -73,7 +73,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:65px; color:#fff;">text 1</div>
+                             style="z-index: 5; font-size:65px; color:#fff;">JURUSAN TEKNIK INFORMATIKA</div>
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption letter-space-1 sfb tp-resizeme"
@@ -87,7 +87,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">text 2</div>
+                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">UNIVERSITAS NEGERI SURABAYA</div>
 
 
                     </li>
@@ -95,7 +95,7 @@ include "header.php";
                     <!-- SLIDE  -->
                     <li data-transition="random" data-slotamount="7">
                         <!-- MAIN IMAGE -->
-                        <img src="images/slides/slides-2.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <img src="images/bg/sosialisasi-komatique-1024x512.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -110,7 +110,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:65px; color:#fff;">text a1</div>
+                             style="z-index: 5; font-size:65px; color:#fff;">JURUSAN TEKNIK INFORMATIKA</div>
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption letter-space-1 sfb tp-resizeme"
@@ -124,7 +124,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">text a2</div>
+                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">UNIVERSITAS NEGERI SURABAYA</div>
 
                     </li>
                 </ul>
