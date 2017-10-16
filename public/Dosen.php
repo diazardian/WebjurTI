@@ -36,6 +36,9 @@
     <![endif]-->
 </head>
 
+<?php
+include "header.php";
+?>
 
 <body>
 
@@ -52,67 +55,6 @@
 
 <!-- Page Wrapper -->
 <div id="wrap">
-
-    <!-- Top bar -->
-    <div class="top-bar">
-        <div class="container">
-            <div class="col-md-6">
-                <ul class="row">
-                    <li class="margin-right-20">
-                        <p></i>Universitas Negeri Surabaya</p>
-                    </li>
-                    <li class="margin-right-20">
-                        <p><i class="fa fa-phone margin-right-10"></i> +01 123 456 78</p>
-                    </li>
-                    <li>
-                        <p><i class="fa fa-user margin-right-10"></i> Account</p>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Social Icon -->
-            <div class="col-md-6 text-right social-top">
-                <!-- Social Icon -->
-                <ul class="social-icons">
-                    <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#."><i class="fa fa-google"></i></a></li>
-                    <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <!-- Header -->
-    <header class="header coporate-header">
-        <div class="sticky">
-            <div class="container">
-                <div class="logo"> <a href="index.html"></a> </div>
-
-                <!-- Nav -->
-                <nav>
-                    <ul id="ownmenu" class="ownmenu">
-                        <li><a href="index.html">BERANDA</a>
-                            <ul class=>
-                            </ul>
-                        </li>
-                        <li><a href="about-us.html">AKADEMIK</a> </li>
-                        <li><a href="services.html">SARANA & PRASARANA</a> </li>
-                        <li><a href="index.html">PAGES</a>
-                            <ul class="dropdown">
-                                <li><a href="index.html">BERANDA</a> </li>
-                                <li><a href="about-us.html">AKADEMIK</a> </li>
-                                <li><a href="Dosen.php">Dosen & Karyawan</a> </li>
-                                <li><a href="GALERI.html">Galeri</a> </li>
-                                <li><a href="contact.html">contact</a></li>
-                            </ul>
-                        <li><a href="contact.html">CONTACT</a></li>
-                    </ul>
-            </div>
-        </div>
-    </header>
-    <!-- End Header -->
 
     <!--======= SUB BANNER =========-->
     <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
@@ -142,7 +84,7 @@
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-web-design">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen1.jpg"> <a href="images/portfolio/dosen1.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/eko.jpg"> <a href="images/portfolio/dosen1.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Prof. Dr. Ekohariadi, M.Pd</a></h3>
@@ -154,7 +96,7 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-photography pf-branding-design">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen2.jpg"> <a href="images/portfolio/dosen2.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/bambang.jpg"> <a href="images/portfolio/dosen2.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Drs. BAMBANG SUJATMIKO, M.T.</a></h3>
@@ -165,7 +107,7 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-web-design pf-branding-design">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen3.jpg"> <a href="images/portfolio/dosen3.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/sondang.jpg"> <a href="images/portfolio/dosen3.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Dr. MEINI SONDANG SUMBAWATI, M.Pd.</a></h3>
@@ -176,7 +118,7 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-web-design pf-digital-art ">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen4.jpg"> <a href="images/portfolio/dosen4.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/anita.jpg"> <a href="images/portfolio/dosen4.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Anita Qoiriah, S.Kom., M.Kom</a></h3>
@@ -187,7 +129,7 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-web-design pf-digital-art ">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen5.jpg"> <a href="images/portfolio/dosen5.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/rina.jpg"> <a href="images/portfolio/dosen5.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Rina Harimurti, S.Pd.,MT</a></h3>
@@ -198,7 +140,7 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
 
                     <!-- ITEM -->
                     <article class="portfolio-item pf-web-design pf-digital-art ">
-                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/dosen6.jpg"> <a href="images/portfolio/dosen6.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
+                        <div class="portfolio-image"> <img class="img-responsive" alt="Open Imagination" src="images/dosen/adit.jpg"> <a href="images/portfolio/dosen6.jpg" data-rel="prettyPhoto" class="prettyPhoto lightzoom zoom"><i class="ion-ios-search"></i></a>
                             <div class="portfolio-overlay style-2">
                                 <div class="detail-info">
                                     <h3><a href="portfolio-single.html">Aditya Prapanca, ST. M.Kom</a></h3>
