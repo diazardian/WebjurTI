@@ -153,10 +153,16 @@ Program Studi	:	S-1 Pendidikan T.Informasi</a></span> </div>
             </div>
         </section>
 
+        <section class="promo pink-bg padding-bottom-50 padding-top-50">
+            
+        </section>
 
     <!-- End Content -->
 
 </div>
+    <?php
+    include "footer.php";
+    ?>
 <!-- End Page Wrapper -->
 
 <!-- JavaScripts -->
