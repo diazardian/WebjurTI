@@ -25,11 +25,8 @@
                         </li>
                         <li><a href="sarpras.php">Sar Pras</a>
                         </li>
-                        <li><a href="portfolio.html">Dos Kar</a>
-                            <ul class="dropdown">
-                                <li><a href="product-1.html">Profil Dosen</a></li>
-                                <li><a href="product-2.html">Profil Karyawan</a></li>
-                            </ul>
+                        <li><a href="Dosen.php">Dos Kar</a>
+
                         </li>
                         <li><a href="about_us.php">Mahasiswa</a>
                             <ul class="dropdown">
