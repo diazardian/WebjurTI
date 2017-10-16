@@ -142,7 +142,7 @@ include "header.php";
                 <div class="heading-block text-center margin-bottom-80">
                     <h3>Selamat Datang Mahasiswa Teknik Informatika UNESA</h3>
                     <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+                   </div>
 
                 <!-- Icon Row -->
 
@@ -202,7 +202,7 @@ include "header.php";
                             </li>
                         </ul>
                     </div>
-                    <div class="col-md-5"> <img class="img-responsive" src="images/intro-tabs.png" alt="" > </div>
+                    <div class="col-md-5"> <img class="img-responsive" src="images/bg/sosialisasi-komatique-1024x512.jpg" alt="" > </div>
                 </div>
             </div>
         </section>
@@ -215,7 +215,7 @@ include "header.php";
                 <div class="heading-block text-center margin-bottom-80">
                     <h3>Visi dan Misi Jurusan</h3>
                     <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+                    <span class=" margin-top-20"></span> </div>
                 <div class="row">
 
                     <!-- LIST LEFT -->
@@ -310,7 +310,7 @@ include "header.php";
                 <div class="heading-block text-center margin-bottom-80">
                     <h3>Program Studi Jurusan Teknik Informatika</h3>
                     <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+                    <span class=" margin-top-20"> </span> </div>
 
                 <!-- Services -->
                 <div class="time-line">
@@ -458,10 +458,8 @@ include "header.php";
         </section>
 
         <!-- PROMO -->
-        <section class="promo text-center padding-bottom-100 padding-top-100" style="background:url(images/bg/promo-bg.jpg) no-repeat;">
+        <section class="promo text-center padding-bottom-50 padding-top-50" style="background:url(images/bg/promo-bg.jpg) no-repeat;">
             <div class="container">
-                <h6>We have used latest Technology</h6>
-                <h3>True Material Design For Your Business</h3>
 
         </section>
 
@@ -472,7 +470,7 @@ include "header.php";
                 <div class="heading-block text-center margin-bottom-80">
                     <h3>Sarana Dan Prasarana</h3>
                     <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+                    <span class=" margin-top-20"> </span> </div>
 
                 <!-- List  -->
                 <div class="row">
@@ -525,17 +523,17 @@ include "header.php";
         </section>
 
         <!-- PROMO -->
-        <section class="promo pink-bg padding-bottom-60 padding-top-60">
+        <section class="promo pink-bg padding-bottom-50 padding-top-50">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7">
-                        <h3 class="text-white text-uppercase no-margin">Do you want to   discuss wth us?</h3>
+                        <h3 class="text-white text-uppercase no-margin"> </h3>
                     </div>
                 </div>
         </section>
 
         <!-- TEAM MEMBER -->
-        <section class="testimonial padding-bottom-100 padding-top-100">
+        <section class="testimonial padding-bottom-50 padding-top-50">
             <div class="container">
 
                 <!-- Slider -->
@@ -551,140 +549,10 @@ include "header.php";
                             setelah proses pengajuan kepada DIKTI untuk pendirian jurusan Teknik  Informatika pada tahun 2012.</p>
                         <h6>Teknik Informatika</h6>
                     </div>
-
-                    <!-- Slider item -->
-                    <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
-                        <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
-                    </div>
-
-                    <!-- Slider item -->
-                    <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
-                        <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
-                    </div>
                 </div>
             </div>
         </section>
 
-        <!-- TAB SECTION -->
-        <section class="light-gray-bg tabs-sect padding-bottom-100 padding-top-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4"> <img class="img-responsive" src="images/iphone.png" alt="" > </div>
-                    <div class="col-md-8">
-
-                        <!-- Nav tabs -->
-                        <ul class="nav nav-pills" role="tablist">
-                            <li role="presentation" class="active"><a href="#branch" role="tab" data-toggle="tab"><i class="icon-globe"></i> Our Branches</a></li>
-                            <li role="presentation"><a href="#project" role="tab" data-toggle="tab"><i class="icon-briefcase"></i> Latest Projects</a></li>
-                            <li role="presentation"><a href="#news" role="tab" data-toggle="tab"><i class="icon-layers"></i> Latest news</a></li>
-                            <li role="presentation"><a href="#contact" role="tab" data-toggle="tab"><i class="icon-map"></i> contact us</a></li>
-                        </ul>
-
-                        <!-- Tab panes -->
-                        <div class="tab-content">
-
-                            <!-- Branch -->
-                            <div role="tabpanel" class="tab-pane fade in active" id="branch">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h6>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since the day they was born. Well we're movin' on up</h6>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <p>Takin' a break from all your worries sure would help a lot. Well we're movin' on up to the east side. To a deluxe apartment in the sky. On the most sensational inspirational celebrational Muppetational what we call the Great.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- project -->
-                            <div role="tabpanel" class="tab-pane fade" id="project">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h6>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since the day they was born. Well we're movin' on up</h6>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <p>Takin' a break from all your worries sure would help a lot. Well we're movin' on up to the east side. To a deluxe apartment in the sky. On the most sensational inspirational celebrational Muppetational what we call the Great.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- news -->
-                            <div role="tabpanel" class="tab-pane fade" id="news">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h6>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since the day they was born. Well we're movin' on up</h6>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <p>Takin' a break from all your worries sure would help a lot. Well we're movin' on up to the east side. To a deluxe apartment in the sky. On the most sensational inspirational celebrational Muppetational what we call the Great.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- contact -->
-                            <div role="tabpanel" class="tab-pane fade" id="contact">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h6>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since the day they was born. Well we're movin' on up</h6>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <p>Takin' a break from all your worries sure would help a lot. Well we're movin' on up to the east side. To a deluxe apartment in the sky. On the most sensational inspirational celebrational Muppetational what we call the Great.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Blog -->
-        <section class="blog padding-top-100 padding-bottom-100">
-            <div class="container">
-
-                <!-- HEADING BLOCK -->
-                <div class="heading-block text-center margin-bottom-80">
-                    <h3>K E M A H A S I S W A A N</h3>
-                    <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
-
-                <!-- Blog Row -->
-                <div class="row">
-
-                    <!-- Blog Post -->
-                    <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-1.jpg" alt="" > <span class="tags">Kemahasiswaan</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a>
-                            <p>That this group would somehow form family that's the way we all became the Bunch.
-                                Here he comes Here comes Speed.</p>
-                            <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
-                    </div>
-                    <!-- Blog Post -->
-                    <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-2.jpg" alt="" > <span class="tags">Program Mahasiswa</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a>
-                            <p>That this group would somehow form family that's the way we all became the Bunch.
-                                Here he comes Here comes Speed.</p>
-                            <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
-                    </div>
-
-                    <!-- Blog Post -->
-                    <div class="col-md-4">
-                        <div class="blog-post z-depth-1"> <img class="img-responsive" src="images/blog-img-3.jpg" alt="" > <span class="tags">Beasiswa</span> <a href="#." class="post-tittle">There's nothing can hold when
-                                We hold you</a>
-                            <p>That this group would somehow form family that's the way we all became the Bunch.
-                                Here he comes Here comes Speed.</p>
-                            <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </div>
-                    </div>
-                </div>
-            </div>
-        </section>
     </div>
 <?php
 include "footer.php";
