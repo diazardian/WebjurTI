@@ -58,7 +58,7 @@ include "header.php";
     <section class="sub-banner bg-parallax" style="background:url(images/bg/about-bg-1.jpg) no-repeat">
         <div class="container">
             <div class="position-center-center">
-                <h1>our services</h1>
+                <h1>text header</h1>
             </div>
         </div>
     </section>
@@ -72,9 +72,9 @@ include "header.php";
 
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Services What We Provide</h3>
+                    <h3>-- PENGUMUMAN!! --</h3>
                     <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
+                    <span class=" margin-top-20"> Pengumuman-pengumuman terbaru dari jurusan Teknik Informatika Universitas Negeri Surabaya </span> </div>
                 <div class="services-welcome text-center">
                     <ul class="row">
 
@@ -82,9 +82,15 @@ include "header.php";
                         <li class="col-md-4">
                             <article class="z-depth-1">
                                 <div class="icon"> <i class="icon-pencil"></i> </div>
-                                <h5 class="margin-top-30 margin-bottom-10" >Web design</h5>
-                                <p>Takin' a break from all your worries sure would help a lot. Sunny Days sweepin' the clouds away. On
-                                    my way to where the air is sweet. </p>
+                                <h5 class="margin-top-30 margin-bottom-10" >Pelatihan GIS Laboratorium AJK</h5>
+                                <p> Laboratorium AJK (Arsitektur Jaringan Komputer) kembali lagi mengadakan Pelatihan GIS: “Magic Programming” bekerja sama dengan Small World. Pelatihan ini terbuka bagi civitas ITS (mahasiswa, dosen, karyawan, alumni) dan pihak luar (mahasiswa non-ITS dan masyarakat umum).
+
+                                    Pelatihan akan dilaksanakan pada tanggal 15, 16, 17, 23, dan 24 Mei 2014 jam 09:00-16:00 WIB,
+                                    bertempat di Laboratorium AJK Teknik Informatika Lt.3 Ruang 307.
+                                    Sedangkan untuk ujian online akan dilaksanakan pada tanggal 31 Mei 2014 mulai 09:00 WIB.
+                                    Bagi peserta yang lulus ujian online akan mendapatkan sertifikat dari Smallworld.
+                                    Informasi lebih lanjut dapat dilihat pada poster terlampir.
+                                </p>
                                 <a href="#." class="waves-effect waves-ripple btn">read more</a> </article>
                         </li>
 
@@ -92,9 +98,14 @@ include "header.php";
                         <li class="col-md-4">
                             <article class="z-depth-1">
                                 <div class="icon"> <i class="ion-code"></i> </div>
-                                <h5 class="margin-top-30 margin-bottom-10">Web development</h5>
-                                <p>Takin' a break from all your worries sure would help a lot. Sunny Days sweepin' the clouds away. On
-                                    my way to where the air is sweet. </p>
+                                <h5 class="margin-top-30 margin-bottom-10">Sosialisasi Beasiswa LPDP, Fresh Graduate, dan Joint Degree</h5>
+                                <p>Diharapkan kehadiran mahasiswa Jurusan Teknik Informatika dalam rangka Sosialisasi Beasiswa LPDP, Fresh Graduate, dan Joint Degree pada:
+
+                                    Hari: Selasa
+                                    Tanggal: 4 Pebruari 2014
+                                    Pukul: 13.00 wib
+                                    Tempat: Aula Jurusan Teknik Informatika (lt. 2).
+                                </p>
                                 <a href="#." class="waves-effect waves-ripple btn">read more</a> </article>
                         </li>
 
@@ -102,9 +113,12 @@ include "header.php";
                         <li class="col-md-4">
                             <article class="z-depth-1">
                                 <div class="icon"> <i class="icon-graph"></i> </div>
-                                <h5 class="margin-top-30 margin-bottom-10">Web analytics</h5>
-                                <p>Takin' a break from all your worries sure would help a lot. Sunny Days sweepin' the clouds away. On
-                                    my way to where the air is sweet. </p>
+                                <h5 class="margin-top-30 margin-bottom-10">Ikuti Pressentasi dari SQUARE-ENIX, Perusahaan Game Terbesar di Jepang !!!</h5>
+                                <p>SQUARE-ENIX merupakan perusahaan yang telah menghasilkan sejumlah game yang terkenal di seluruh dunia,
+                                    seperti Final Fantasy Series, Dragon Quest, dan sebagainya.
+                                    Jadi, jangan lewatkan kunjungan dari perusahaan Game terbesar di Jepang,
+                                    SQUARE-ENIX di jurusan Teknik Informatika.
+                                </p>
                                 <a href="#." class="waves-effect waves-ripple btn">read more</a> </article>
                         </li>
                     </ul>
@@ -214,174 +228,8 @@ include "header.php";
             </div>
         </section>
 
-        <!-- PROMO -->
-        <section class="promo text-center padding-bottom-100 padding-top-100" style="background:url(images/bg/promo-bg.jpg) no-repeat;">
-            <div class="container">
-                <h6>We have used latest Technology</h6>
-                <h3>True Material Design For Your Business</h3>
-                <a href="#." class="waves-effect waves-light btn btn-white margin-right-20">purchase now</a> <a href="#." class="waves-effect waves-light btn margin-left-20">purchase now</a> </div>
-        </section>
 
-        <!-- PRICING PLAN -->
-        <section class="padding-top-100 padding-bottom-100">
-            <div class="container">
 
-                <!-- HEADING BLOCK -->
-                <div class="heading-block text-center margin-bottom-80">
-                    <h3>Choose Your Pricing</h3>
-                    <hr>
-                    <span class=" margin-top-20">The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. the Minnow always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. </span> </div>
-
-                <!-- PLAN -->
-                <div class="price-plan">
-                    <ul class="row">
-
-                        <!-- PLAN 1 -->
-                        <li class="col-md-3">
-                            <article class="z-depth-1 padding-bottom-40">
-                                <div class="head-price">
-                                    <h4>basic</h4>
-                                    <div class="price z-depth-1"> $50 </div>
-                                </div>
-                                <ul>
-                                    <li>3 Web Design</li>
-                                    <li> 5 Web Development</li>
-                                    <li> Free Hosting</li>
-                                    <li> SEO Optimization</li>
-                                    <li> 24/7 Support</li>
-                                    <li> WP Customization</li>
-                                    <li> Free Membership</li>
-                                </ul>
-                                <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </article>
-                        </li>
-
-                        <!-- PLAN 2 -->
-                        <li class="col-md-3">
-                            <article class="z-depth-1 padding-bottom-40">
-                                <div class="head-price">
-                                    <h4>standard</h4>
-                                    <div class="price z-depth-1"> $100 </div>
-                                </div>
-                                <ul>
-                                    <li>3 Web Design</li>
-                                    <li> 5 Web Development</li>
-                                    <li> Free Hosting</li>
-                                    <li> SEO Optimization</li>
-                                    <li> 24/7 Support</li>
-                                    <li> WP Customization</li>
-                                    <li> Free Membership</li>
-                                </ul>
-                                <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </article>
-                        </li>
-
-                        <!-- PLAN 3 -->
-                        <li class="col-md-3">
-                            <article class="z-depth-1 padding-bottom-40">
-                                <div class="head-price">
-                                    <h4>business</h4>
-                                    <div class="price z-depth-1"> $150 </div>
-                                </div>
-                                <ul>
-                                    <li>3 Web Design</li>
-                                    <li> 5 Web Development</li>
-                                    <li> Free Hosting</li>
-                                    <li> SEO Optimization</li>
-                                    <li> 24/7 Support</li>
-                                    <li> WP Customization</li>
-                                    <li> Free Membership</li>
-                                </ul>
-                                <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </article>
-                        </li>
-
-                        <!-- PLAN 3 -->
-                        <li class="col-md-3">
-                            <article class="z-depth-1 padding-bottom-40">
-                                <div class="head-price">
-                                    <h4>unlimited</h4>
-                                    <div class="price z-depth-1"> $250 </div>
-                                </div>
-                                <ul>
-                                    <li>3 Web Design</li>
-                                    <li> 5 Web Development</li>
-                                    <li> Free Hosting</li>
-                                    <li> SEO Optimization</li>
-                                    <li> 24/7 Support</li>
-                                    <li> WP Customization</li>
-                                    <li> Free Membership</li>
-                                </ul>
-                                <a href="#." class="waves-effect waves-light btn btn-white">read more</a> </article>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <!-- PROMO -->
-        <section class="promo pink-bg padding-bottom-60 padding-top-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-7">
-                        <h3 class="text-white text-uppercase no-margin">Do you want to   discuss wth us?</h3>
-                    </div>
-                    <div class="col-md-5 text-center"> <a href="#." class="waves-effect waves-light btn  btn-white margin-right-20">contact us</a> <a href="#." class="waves-effect btn btn-blue margin-left-20">purchase now</a> </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- TEAM MEMBER -->
-        <section class="testimonial padding-bottom-100 padding-top-100">
-            <div class="container">
-
-                <!-- Slider -->
-                <div class="single-slides">
-
-                    <!-- Slider item -->
-                    <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
-                        <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
-                    </div>
-
-                    <!-- Slider item -->
-                    <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
-                        <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
-                    </div>
-
-                    <!-- Slider item -->
-                    <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
-                        <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
-                        <p>Friendly neighbors there that's where we meet. Can you tell me how to get how to get to Sesame Street! Here's the story of a lovely lady who was bringing up three very lovely girls. Said Californ'y is the place you ought to be
-                            So they loaded up the truck and moved to Beverly. Hills that is stars.</p>
-                        <h6>Micheal Anderson</h6>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- News Letter -->
-        <div class="container">
-            <section class="news-letter">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h5>Subscribe to our newsletter</h5>
-                        <p>You can unsubscribe anytime you want</p>
-                    </div>
-                    <div class="col-md-6">
-                        <form>
-                            <input type="email" class="z-depth-1" placeholder="Email address" required>
-                            <button type="submit" class="btn waves-effect waves-light">subscribe</button>
-                        </form>
-                    </div>
-                </div>
-            </section>
-        </div>
     </div>
     <!-- End Content -->
 
