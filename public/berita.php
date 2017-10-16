@@ -231,86 +231,11 @@ include "header.php";
 
 
     </div>
-    <!-- End Content -->
-
-    <!-- Footer -->
-
-    <footer>
-        <div class="container">
-            <div class="row">
-
-                <!-- About -->
-                <div class="col-md-3"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="" >
-                    <p>Said Californ'y is the place you ought to be So they loaded up the truck and moved to Beverly. Hills that is.</p>
-
-                    <!-- Social Icon -->
-                    <ul class="social-icons">
-                        <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#."><i class="fa fa-google"></i></a></li>
-                        <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#."><i class="fa fa-dribbble"></i></a></li>
-                    </ul>
-                </div>
-
-                <!-- Our Services -->
-                <div class="col-md-3">
-                    <h5>Our Services</h5>
-                    <ul class="links">
-                        <li><a href="#.">Wed Design</a></li>
-                        <li><a href="#."> Wed Development</a></li>
-                        <li><a href="#."> SEO Optimization</a></li>
-                        <li><a href="#."> Web Analytics</a></li>
-                        <li><a href="#."> Digital Marketing</a></li>
-                    </ul>
-                </div>
-
-                <!-- useful links -->
-                <div class="col-md-3">
-                    <h5>useful links</h5>
-                    <ul class="links">
-                        <li><a href="#.">About us</a></li>
-                        <li><a href="#."> Why Choose Us</a></li>
-                        <li><a href="#."> Our Services</a></li>
-                        <li><a href="#."> Contact Us</a></li>
-                        <li><a href="#."> Site Map</a></li>
-                        <li><a href="#."> Partners</a></li>
-                        <li><a href="#."> Help Topics</a></li>
-                    </ul>
-                </div>
-
-                <!-- flickr -->
-                <div class="col-md-3">
-                    <h5>flickr</h5>
-                    <ul class="flicker">
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-1.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-2.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-3.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-4.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-5.jpg" alt="" ></a></li>
-                        <li><a href="#."><img class="img-responsive" src="images/flicker-6.jpg" alt="" ></a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Links -->
-            <ul class="bottom-links">
-                <li><a href="#.">Home </a></li>
-                <li><a href="#."> about us </a></li>
-                <li><a href="#."> services </a></li>
-                <li><a href="#."> Portfolio</a></li>
-                <li><a href="#."> blog </a></li>
-                <li><a href="#."> contact us</a></li>
-            </ul>
-
-            <!-- Rights -->
-            <div class="rights">
-                <p>© 2015 All Rights Reserved</p>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer -->
 </div>
+
+<?php
+include "footer.php";
+?>
 <!-- End Page Wrapper -->
 
 <!-- JavaScripts -->
