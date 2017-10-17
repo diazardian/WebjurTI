@@ -126,107 +126,27 @@ include "header.php";
             </div>
         </section>
 
-        <!-- PORTFOLIO -->
-        <section class="portfolio port-wrap pink-bg padding-top-80">
+
+       
+
+
+        <section class="testimonial padding-bottom-50 padding-top-50">
             <div class="container">
-                <!-- HEADING BLOCK -->
-                <div class="heading-block text-center margin-bottom-80">
-                    <h3 class="text-white no-margin">Featured Works</h3>
+                <div class="single-slides">
+                    <div class="item"> <img src="images/portfolio/glg.jpg" alt="" > </div>
+                </div>
+
+                <div class="row client-info margin-top-50">
+                    <div class="col-md-9">
+                        <h4>CONGRATULATION YUDISIUM SARJANA & DIPLOMA PERIODE III 2017</h4>
+                        <p> Kami segenap Keluarga Besar Himti UNESA mengucapkan
+                            "Selamat dan sukses Yudisium III 2017 Fakultas Teknik Universitas Negeri Surabaya"
+                            Terus berjuang demi mencapai cita-cita yang diharapkan, do'a kami selalu menyertai kalian!</p>
+                    </div>
                 </div>
             </div>
-
-            <!-- PORTFOLIO ITEMS -->
-            <div class="items row col-4">
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-1.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-photography pf-branding-design">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-2.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-branding-design">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-3.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-digital-art ">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-4.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-digital-art ">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-5.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-digital-art ">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-6.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-digital-art ">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-7.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- ITEM -->
-                <article class="portfolio-item pf-web-design pf-digital-art ">
-                    <div class="portfolio-image"> <a href="#."> <img class="img-responsive" alt="Open Imagination" src="images/portfolio/img-8.jpg"> </a>
-                        <div class="portfolio-overlay style-2">
-                            <div class="detail-info">
-                                <h3><a href="portfolio-single.html">Boulangerie product design</a></h3>
-                                <span><a href="portfolio-single.html">Branding & Wed Design</a></span> </div>
-                        </div>
-                    </div>
-                </article>
-            </div>
         </section>
+
 
 
 
