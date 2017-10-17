@@ -73,7 +73,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:65px; color:#fff;">JURUSAN TEKNIK INFORMATIKA</div>
+                             style="z-index: 5; font-size:65px; color:#ad1457;">JURUSAN TEKNIK INFORMATIKA</div>
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption letter-space-1 sfb tp-resizeme"
@@ -87,7 +87,7 @@ include "header.php";
                              data-elementdelay="0.1"
                              data-endelementdelay="0.1"
                              data-endspeed="700"
-                             style="z-index: 5; font-size:25px; color:#fff; font-weight:100;">UNIVERSITAS NEGERI SURABAYA</div>
+                             style="z-index: 5; font-size:25px; color:#ad1457; font-weight:100; font-style: inherit">UNIVERSITAS NEGERI SURABAYA</div>
 
 
                     </li>

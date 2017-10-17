@@ -38,7 +38,7 @@
                         <li><a href="contact.html">Galeri</a></li>
                     </ul>
                 </nav>
-                <a href="#." class="waves-effect waves-ripple any-help z-depth-1">Help!!</a> </div>
+                <a href="#." class="waves-effect waves-ripple any-help z-depth-1">LOGIN</a> </div>
         </div>
     </header>
     <!-- End Header -->
