@@ -157,8 +157,7 @@ include "header.php";
                                         <div class="icon"> <i class="ion-ios-speedometer-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>News 1</h5>
-                                        <p>Isi news 1</p>
+                                        <h5>S1 Teknik Informatika</h5>
                                     </div>
                                 </div>
                             </li>
@@ -170,8 +169,7 @@ include "header.php";
                                         <div class="icon"> <i class="ion-ios-color-wand-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>News 2</h5>
-                                        <p>isi news 2</p>
+                                        <h5>S1 Sistem Informasi</h5>
                                     </div>
                                 </div>
                             </li>
@@ -183,8 +181,7 @@ include "header.php";
                                         <div class="icon"> <i class="ion-ios-infinite-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>News 3</h5>
-                                        <p>isi news 3</p>
+                                        <h5>S1 Pendidikan Teknologi Informasi</h5>
                                     </div>
                                 </div>
                             </li>
@@ -195,14 +192,13 @@ include "header.php";
                                         <div class="icon"> <i class="ion-ios-monitor-outline"></i> </div>
                                     </div>
                                     <div class="media-body">
-                                        <h5>news 4</h5>
-                                        <p>isi news 4</p>
+                                        <h5>D3 Manajemen Informatika</h5>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                     </div>
-                    <div class="col-md-5"> <img class="img-responsive" src="images/bg/sosialisasi-komatique-1024x512.jpg" alt="" > </div>
+                    <div class="col-md-5"> <img class="img-responsive" src="images/sarpras/lab-mmk.jpg" alt="" > </div>
                 </div>
             </div>
         </section>
@@ -214,6 +210,8 @@ include "header.php";
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
                     <h3>Visi dan Misi Jurusan</h3>
+                    <h4>Visi Jurusan</h4>
+                    <p>Unggul dalam Pendidikan dan Teknologi Informasi.</p>
                     <hr>
                     <span class=" margin-top-20"></span> </div>
                 <div class="row">
@@ -224,11 +222,11 @@ include "header.php";
                             <li>
                                 <div class="media">
                                     <div class="media-body">
-                                        <h4>Visi Jurusan</h4>
-                                        <p>Unggul dalam Pendidikan dan Teknologi Informasi.</p>
+                                        <h4>Misi Jurusan</h4>
+                                        <p>Menyelenggarakan manajemen jurusan yang kredibel, akuntabel dan transparan sesuai standar penjaminan mutu.</p>
                                     </div>
                                     <div class="media-right">
-                                        <div class="icon"> <img src="images/list-icon-1.png" alt=""></div>
+                                        <div class="icon"> <img src="images/list-icon-5.png" alt=""></div>
                                     </div>
                                 </div>
                             </li>
@@ -236,10 +234,10 @@ include "header.php";
                                 <div class="media">
                                     <div class="media-body">
                                         <h4>Misi Jurusan</h4>
-                                        <p>misi 1</p>
+                                        <p>Menghasilkan lulusan yang berkompeten dan berkarakter .</p>
                                     </div>
                                     <div class="media-right">
-                                        <div class="icon"> <img src="images/list-icon-2.png" alt=""></div>
+                                        <div class="icon"> <img src="images/list-icon-5.png" alt=""></div>
                                     </div>
                                 </div>
                             </li>
@@ -247,10 +245,10 @@ include "header.php";
                                 <div class="media">
                                     <div class="media-body">
                                         <h4>Misi Jurusan</h4>
-                                        <p>misi 2</p>
+                                        <p>Meningkatkan kualitas sumber daya manusia di bidang keilmuan pendidikan dan teknologi informasi.</p>
                                     </div>
                                     <div class="media-right">
-                                        <div class="icon"> <img src="images/list-icon-3.png" alt=""></div>
+                                        <div class="icon"> <img src="images/list-icon-5.png" alt=""></div>
                                     </div>
                                 </div>
                             </li>
@@ -258,7 +256,7 @@ include "header.php";
                     </div>
 
                     <!-- LIST IMAGE -->
-                    <div class="col-md-4 text-center no-padding"> <img class="img-responsive" src="images/iphone-2.png" alt=""> </div>
+                    <div class="col-md-4 text-center no-padding"> <img class="img-responsive" src="images/Kampus-unesa.jpg" alt=""> </div>
 
                     <!-- LIST ICON RIGHT -->
                     <div class="col-md-4">
@@ -266,11 +264,11 @@ include "header.php";
                             <li>
                                 <div class="media">
                                     <div class="media-left">
-                                        <div class="icon"> <img src="images/list-icon-4.png" alt=""> </div>
+                                        <div class="icon"> <img src="images/list-icon-5.png" alt=""> </div>
                                     </div>
                                     <div class="media-body">
                                         <h4>Misi Jurusan</h4>
-                                        <p>misi 3</p>
+                                        <p>Menyelenggarakan pendididikan yang inovatif di bidang teknologi informasi.</p>
                                     </div>
                                 </div>
                             </li>
@@ -281,18 +279,19 @@ include "header.php";
                                     </div>
                                     <div class="media-body">
                                         <h4>Misi Jurusan</h4>
-                                        <p>misi 4</p>
+                                        <p>Menyediakan sarana dan prasarana dalam pengembangan pendidikan dan teknologi informasi.</p>
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="media">
                                     <div class="media-left">
-                                        <div class="icon"> <img src="images/list-icon-6.png" alt=""> </div>
+                                        <div class="icon"> <img src="images/list-icon-5.png" alt=""> </div>
                                     </div>
                                     <div class="media-body">
                                         <h4>Misi Jurusan</h4>
-                                        <p>misi 5</p>
+                                        <p>Melaksanakan penelitian, penerapan IPTEK bagi masyarakat dan menjalin kerjasama yang berkelanjutan dengan berbagai instansi dan dunia industri.
+                                            </p>
                                     </div>
                                 </div>
                             </li>
@@ -308,7 +307,7 @@ include "header.php";
 
                 <!-- HEADING BLOCK -->
                 <div class="heading-block text-center margin-bottom-80">
-                    <h3>Program Studi Jurusan Teknik Informatika</h3>
+                    <h3>Sarana Dan Prasarana Jurusan Teknik Informatika</h3>
                     <hr>
                     <span class=" margin-top-20"> </span> </div>
 
@@ -318,8 +317,7 @@ include "header.php";
                     <!-- Right Services -->
                     <ul class="row">
                         <li class="col-sm-6 pull-right padding-left-100 margin-bottom-30">
-                            <h4>S1 Teknik Informatika</h4>
-                            <p>visi misi ti</p>
+                            <h4>Ruang Baca</h4>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -327,8 +325,7 @@ include "header.php";
                     <!-- Left Services -->
                     <ul class="row second">
                         <li class="col-sm-6 pull-left text-right padding-right-100">
-                            <h4>S1 Sistem Informasi</h4>
-                            <p>visi misi si</p>
+                            <h4>Lab. Rekayasa Perangkat Lunak</h4>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -336,8 +333,7 @@ include "header.php";
                     <!-- Right Services -->
                     <ul class="row tird">
                         <li class="col-sm-6 pull-right padding-left-100 margin-bottom-30">
-                            <h4>S1 Pendidikan Teknologi Informasi</h4>
-                            <p>visi misi pti</p>
+                            <h4>Lab. Jaringan Komputer</h4>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -345,8 +341,7 @@ include "header.php";
                     <!-- Left Services -->
                     <ul class="row second">
                         <li class="col-sm-6 pull-left text-right padding-right-100">
-                            <h4>D3 Manajemen Informasi</h4>
-                            <p>visi misi mi</p>
+                            <h4>Lab. Multimedia Kreatif</h4>
                         </li>
                     </ul>
                     <div class="clearfix"></div>
@@ -463,75 +458,6 @@ include "header.php";
 
         </section>
 
-        <!-- Wgy Choose -->
-        <section class="why-choose padding-top-100 padding-bottom-100">
-            <div class="container">
-                <!-- HEADING BLOCK -->
-                <div class="heading-block text-center margin-bottom-80">
-                    <h3>Sarana Dan Prasarana</h3>
-                    <hr>
-                    <span class=" margin-top-20"> </span> </div>
-
-                <!-- List  -->
-                <div class="row">
-                    <div class="col-md-7">
-                        <ul>
-
-                            <!-- HEADING -->
-                            <li>
-                                <div class="media">
-                                    <div class="media-left">
-                                        <div class="icon"> 1 </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h4>Ruang Kelas</h4>
-                                        <p>deskrip kelas</p>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <!-- Experienced team -->
-                            <li>
-                                <div class="media">
-                                    <div class="media-left">
-                                        <div class="icon"> 2 </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h4>Laboraturium</h4>
-                                        <p>deskrip lab</p>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <!-- HEADING -->
-                            <li>
-                                <div class="media">
-                                    <div class="media-left">
-                                        <div class="icon"> 3 </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h4>Parking</h4>
-                                        <p>deskrip</p>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-5 text-bold"> <img class="img-responsive" src="images/why-choose-img.png" alt="" > </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- PROMO -->
-        <section class="promo pink-bg padding-bottom-50 padding-top-50">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-7">
-                        <h3 class="text-white text-uppercase no-margin"> </h3>
-                    </div>
-                </div>
-        </section>
-
         <!-- TEAM MEMBER -->
         <section class="testimonial padding-bottom-50 padding-top-50">
             <div class="container">
@@ -541,7 +467,7 @@ include "header.php";
 
                     <!-- Slider item -->
                     <div class="item">
-                        <div class="avatar"> <img src="images/avatar.jpg" alt="" > </div>
+                        <div class="avatar"> <img src="images/dosen/rina.jpg" alt="" > </div>
                         <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
                         <p>Jurusan Teknik INFORMATIKA adalah satu dari lima jurusan yang ada di selingkung Fakultas Teknik (FT)
                             Universitas Negeri Surabaya (Unesa). Jurusan Teknik  Informatika cikal bakalnya berasal dari
