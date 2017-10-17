@@ -25,7 +25,7 @@
                         </li>
                         <li><a href="sarpras.php">Sar Pras</a>
                         </li>
-                        <li><a href="Dosen.php">Dos Kar</a>
+                        <li><a href="dosen.php">Dos Kar</a>
 
                         </li>
                         <li><a href="about_us.php">Mahasiswa</a>
